@@ -7,7 +7,7 @@ Python, Pandas, Matplotlib, seaborn,sklearn
 
 ## Results
 The Highest Accuracy was Achieved by Support Vector Machine Model: 77% 
-The Highest Precisionwas achieved by Adaptive Boosting Model : 94%
+The Highest Precision was achieved by Adaptive Boosting Model : 94%
 The Highest Recall was achieved by Stochastic Gradient Descent classifier : 47%
 The Highest F1-Score was achieved by Stochastic Gradient Descent classifier : 52%
 
