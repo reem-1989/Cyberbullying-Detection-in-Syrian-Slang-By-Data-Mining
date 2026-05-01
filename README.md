@@ -1,7 +1,7 @@
 # Cyberbullying Detection in Syrian Slang on Social Media by Data Mining
 
 ## Problem
-Classifying the comments to the suitable categories of Cyberbullying
+classify social media comments into different categories of cyberbullying such as :sexual, physical sexual, religious, political, appearance (cyberbullying related to animals or something), racism, cultural, psychological, praying negatively for person (common in Syrian slang), and general cyberbullying .
 ## Tools
 Python, Pandas, Matplotlib, seaborn,sklearn
 
